@@ -12,6 +12,8 @@ class App extends Component {
         </div>
         <p className="App-intro">
           Andrzej Ty pipo :D
+	
+	  jeste devopsem
         </p>
       </div>
     );
